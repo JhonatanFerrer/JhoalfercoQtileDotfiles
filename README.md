@@ -37,6 +37,7 @@ Rofi menus
 ![imagen](https://github.com/user-attachments/assets/459243d5-d801-4b3c-8cdf-8c7cd5e00400)
 
 PS: If you press the Arch logo in the bar you can open the power menu (previous image) or close the session
+
 ![imagen](https://github.com/user-attachments/assets/4ed2cef8-ad42-4319-89c5-e4a21b4e38c6)
 
 
