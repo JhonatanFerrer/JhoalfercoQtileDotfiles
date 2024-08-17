@@ -2,7 +2,7 @@
 
 These are my Tokyo-Night based Arch Linux dotfiles, there is still a lot to improve and there are some features I would like to add but for now I think it is good enough :3
 
-##Dependencies
+## Dependencies
 
 - qtile
 - kitty
@@ -19,7 +19,7 @@ These are my Tokyo-Night based Arch Linux dotfiles, there is still a lot to impr
 
 I also recommend the [Tokyo Night GTK theme](https://www.gnome-look.org/p/1681315). You may also find useful this [wallpaper repository](https://github.com/tokyo-night/wallpapers)
 
-##Screenshots
+## Screenshots
 
 ![imagen](https://github.com/user-attachments/assets/8316caba-36d5-481c-906e-fcf31e175e22)
 
