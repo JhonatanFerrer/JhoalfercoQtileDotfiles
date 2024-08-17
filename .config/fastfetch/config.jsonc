@@ -1,0 +1,89 @@
+// Note that you must replace the image path to an existing image to display it.
+
+{
+     "logo": {
+         "type": "kitty",
+         "source": "~/.config/fastfetch/image2.png",
+         "width": 32,
+         "height": 15
+     },
+    "display": {
+        "separator": " "
+    },
+    "modules": [
+        "break",
+        {
+            "type": "host",
+            "key": "╭─󰇅 ",
+            "keyColor": "green"
+        },
+        {
+            "type": "cpu",
+            "key": "├─ ",
+            "format": "{1}",
+            "keyColor": "green"
+        },
+        {
+            "type": "gpu",
+            "key": "├─ ",
+            "format": "{2}",
+            "keyColor": "green"
+        },
+        {
+            "type": "memory",
+            "key": "├─ ",
+            "keyColor": "green",
+            "format": "{2}"
+        },
+
+        {
+            "type": "display",
+            "key": "╰─󰍹 ",
+            "keyColor": "green",
+            "compactType": "original"
+        },
+        "break",
+
+        {
+            "type": "shell",
+            "key": "╭─ ",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "terminal",
+            "key": "├─ ",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "de",
+            "key": "├─ ",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "wm",
+            "key": "╰─ ",
+            "keyColor": "yellow"
+        },
+
+        "break",
+        {
+            "type": "title",
+            "key": "╭─ ",
+            "format": "{1}@{2}",
+            "keyColor": "blue"
+        },
+        {
+            "type": "os",
+            "key": "├─ ", // Just get your distro's logo off nerdfonts.com
+            "keyColor": "blue"
+        },
+        {
+            "type": "kernel",
+            "key": "╰─ ",
+            "format": "{1} {2}",
+            "keyColor": "blue"
+        },
+        "break",
+        "colors"
+    ]
+}
