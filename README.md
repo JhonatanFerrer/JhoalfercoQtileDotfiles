@@ -10,9 +10,12 @@ Note: I speak Spanish, so I left some things in this language, feel free to chan
 - kitty
 - fastfetch
 - picom
-- rofi (app launcher)
-- gnome polkit (polkit agent)
-- nitrogen (wallpaper selector)
+- rofi
+- gnome polkit
+- pipewire
+- playerctl
+- brightnessctl
+- nitrogen
 - imagemagick (needed to display images in kitty)
 - alsa-utils (amixer is needed for volume widget)
 - python libs: iwlib, psutil
