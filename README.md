@@ -2,7 +2,7 @@
 
 These are my Tokyo-Night based Arch Linux dotfiles, there is still a lot to improve and there are some features I would like to add but for now I think it is good enough :3
 
-Note: I speak Spanish, so I left some things in this language, feel free to change them if you wish.
+Note: I speak Spanish, so I left some things in this language, feel free to change them if you wish. I also recommend to check the autostart.sh file inside the qtile folder, there I define the screens configuration with xrandr.
 
 ## Dependencies
 
