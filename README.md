@@ -31,7 +31,7 @@ I also recommend the [Tokyo Night GTK theme](https://www.gnome-look.org/p/168131
 CLI applications: fastfetch, htop, tty-clock, unimatrix and cava
 ![imagen](https://github.com/user-attachments/assets/845b55dd-aaa0-453a-ad7b-5a5045fde794)
 
-Laptop edition (just uncomment the qtile config lines for battery and wlan)
+Laptop edition (just uncomment the qtile config lines for battery and wlan widgets)
 ![imagen](https://github.com/user-attachments/assets/e2220988-3363-4fa8-a44e-cbf23502bf29)
 
 Rofi menus
