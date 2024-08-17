@@ -31,4 +31,12 @@ CLI applications: fastfetch, htop, tty-clock, unimatrix and cava
 Laptop edition (just uncomment the qtile config lines for battery and wlan)
 ![imagen](https://github.com/user-attachments/assets/e2220988-3363-4fa8-a44e-cbf23502bf29)
 
+Rofi menus
+![imagen](https://github.com/user-attachments/assets/9fd7889d-164d-48a6-94e0-4cd8f7563b57)
+![imagen](https://github.com/user-attachments/assets/67b6df46-12ef-4c27-9b67-cb22b9662f79)
+![imagen](https://github.com/user-attachments/assets/459243d5-d801-4b3c-8cdf-8c7cd5e00400)
+
+PS: If you press the Arch logo in the bar you can open the power menu (previous image) or close the session
+![imagen](https://github.com/user-attachments/assets/4ed2cef8-ad42-4319-89c5-e4a21b4e38c6)
+
 
