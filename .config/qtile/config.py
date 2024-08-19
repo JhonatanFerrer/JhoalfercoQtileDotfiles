@@ -89,10 +89,10 @@ for i in groups:
 
 
 layouts = [
-    layout.Columns(border_width=0, margin=6, border_focus='000000'),
+    layout.Bsp(border_width=0, margin=6, fair=False),
     layout.Max(),
+    # layout.Columns(),  
     # layout.Stack(num_stacks=2),
-    # layout.Bsp(),
     # layout.Matrix(),
     # layout.MonadTall(),
     # layout.MonadWide(),
