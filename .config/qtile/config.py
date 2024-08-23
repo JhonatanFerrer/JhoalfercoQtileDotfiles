@@ -260,7 +260,18 @@ screens = [
                     urgent_text=urgent_color,
                 ),
                 widget.WindowName(for_current_screen = True),
-                widget.TextBox("  "),
+                widget.TextBox(
+                    " ", 
+                    fontsize=40, 
+                    padding=-14, 
+                    foreground=color5
+                ),
+                widget.Clock(
+                    format="%a %d/%m %I:%M %p", 
+                    background=color5, 
+                    foreground=foreground2
+                ),
+                widget.TextBox("  ", background=color5),
             ],
             28,
             background = background,
